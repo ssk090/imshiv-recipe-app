@@ -6,6 +6,9 @@ This Recipe Website is made using React. If you are bored of eating frozen pizza
 
 This is the [Website](https://imshiv-recipe-app.netlify.app/ "imShiv Recipe Website").
 
+## Image
+![] (https://github.com/ssk090/imshiv-recipe-app/blob/master/image.png)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
