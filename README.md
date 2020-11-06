@@ -1,6 +1,6 @@
 # imShiv Recipe Website
 
-This Recipe Website is made using React. If you are bored of eating frozen pizza, then this website is for you. It has a search bar where users can search for a recipe. The search bar makes API calls from [this](https://developer.edamam.com/edamam-docs-recipe-api "Edaman Website") website. It is free, so we can make maximum of 5 requests per minute. Moreover, the website shows the picture of the recipe along with calorie count in order to maintain your diet.
+This Recipe Website is made using React. If you are bored of eating frozen pizza, then this website is for you. It has a search bar where users can search for a recipe. The search bar makes API calls from [this](https://developer.edamam.com/edamam-docs-recipe-api "Edaman Website") website. It is free, so we can make maximum of 5 requests per minute. Moreover, the website shows the picture of the recipe along with calorie count in order to maintain your diet. The website is also responsive.
 
 ## Website
 
